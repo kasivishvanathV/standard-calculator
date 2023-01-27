@@ -98,6 +98,6 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![](Screenshot(37).png)
+Screenshot (37).png
 ## Result:
 The simple calculator has been completed successfully
