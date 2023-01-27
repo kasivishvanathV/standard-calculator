@@ -98,7 +98,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Uploading Screenshot (37).png…]()
+!
 
 
 ## Result:
