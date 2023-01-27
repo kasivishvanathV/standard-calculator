@@ -97,7 +97,9 @@ Publish the website in the given URL.
 </html>
 ```
 
-## OUTPUT:
-Screenshot (37).png
+## OUTPUT
+[Uploading Screenshot (37).png…]()
+TPUT:
+
 ## Result:
 The simple calculator has been completed successfully
