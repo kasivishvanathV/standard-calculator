@@ -98,7 +98,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![img](Screenshot%20(37))
+![Screenshot (37)](https://user-images.githubusercontent.com/118787417/215050508-1aa7f1ce-22c5-4e4e-9136-534bd39191ce.png)
+
 
 
 ## Result:
